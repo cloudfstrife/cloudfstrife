@@ -1,4 +1,6 @@
-### Hi there 👋
+### WHO AM I
+
+Chinese , Programmer , Sagittary , Specialty coffee amateur
 
 <!--
 **cloudfstrife/cloudfstrife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
