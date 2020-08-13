@@ -1,6 +1,6 @@
 ### WHO AM I
 
-Programmer , Sagittary , Specialty coffee amateur
+Gopher | Programmer | Nintendo Switch Player | Sagittary | Specialty Coffee Amateur
 
 <!--
 **cloudfstrife/cloudfstrife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
