@@ -1,6 +1,6 @@
 ### WHO AM I
 
-Gopher | Programmer | Nintendo Switch | Sagittary | Cold Crip Coffee
+Gopher | Programmer | Nintendo Switch | Sagittary | Cold Drip Coffee
 
 <!--
 **cloudfstrife/cloudfstrife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
