@@ -8,7 +8,6 @@ Gopher | Programmer | Sagittary | Cold Drip Coffee | Nintendo Switch
 
 <a href="https://github.com/cloudfstrife">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloudfstrife&show_icons=true&hide=issues" alt="github statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cloudfstrife&hide=html&layout=compact" alt="github Top languages" />
 </a>
 
 
