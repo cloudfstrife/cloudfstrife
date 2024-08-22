@@ -1,18 +1,23 @@
+<style>
+	img{
+		width:32px;
+		height:32px;
+		margin: 0 15;
+	}
+</style>
 Hello and welcome!
 
 I hope you can find something useful here.
 
 ## ME
 
-| Go | C | Cold Brew | Cold Drip | Nintendo Switch Player |
-
-<img width="32px" height="32px" src="images/GitHub.svg">&ensp;
-<img width="32px" height="32px" src="images/Go.svg">&ensp;
-<img width="32px" height="32px" src="images/C.svg">&ensp;
-<img width="32px" height="32px" src="images/VSCode.svg">&ensp;
-<img width="32px" height="32px" src="images/PostgreSQL.svg">&ensp;
-<img width="32px" height="32px" src="images/Docker.svg">&ensp;
-<img width="32px" height="32px" src="images/NS.svg">
+<div>
+	<img src="images/codeforces-color.svg">
+	<img src="images/go-color.svg">
+	<img src="images/rust-color.svg">
+	<img src="images/c-color.svg">
+	<img src="images/vscode.svg">
+</div>
 
 <!--
 **cloudfstrife/cloudfstrife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
