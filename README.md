@@ -1,10 +1,3 @@
-<style>
-	img{
-		width:32px;
-		height:32px;
-		margin: 0 15;
-	}
-</style>
 Hello and welcome!
 
 I hope you can find something useful here.
@@ -12,11 +5,11 @@ I hope you can find something useful here.
 ## ME
 
 <div>
-	<img src="images/codeforces-color.svg">
-	<img src="images/go-color.svg">
-	<img src="images/rust-color.svg">
-	<img src="images/c-color.svg">
-	<img src="images/vscode.svg">
+	<img style="width:32px;height:32px;" src="images/codeforces-color.svg"/>
+	<img style="width:32px;height:32px;" src="images/go-color.svg"/>
+	<img style="width:32px;height:32px;" src="images/rust-color.svg"/>
+	<img style="width:32px;height:32px;" src="images/c-color.svg"/>
+	<img style="width:32px;height:32px;" src="images/vscode.svg"/>
 </div>
 
 <!--
