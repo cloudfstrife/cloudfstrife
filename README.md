@@ -1,7 +1,3 @@
-Hello and welcome!
-
-I hope you can find something useful here.
-
 ## ME
 
 <div>
